@@ -73,7 +73,7 @@ export const PROJECTS: Project[] = [
     title: 'Urban Fashion Story',
     category: ProjectCategory.GRAPHIC,
     subcategory: 'Social Media',
-    thumbnail: 'public/BACK TO FITNESS_2.png',
+    thumbnail: '/BACK TO FITNESS_2.png',
     format: 'vertical',
     description: 'Vertical promo for streetwear brand.',
     client: 'UrbanFit',
@@ -84,7 +84,7 @@ export const PROJECTS: Project[] = [
     title: 'Music Festival Poster',
     category: ProjectCategory.GRAPHIC,
     subcategory: 'Posters',
-    thumbnail: 'public/Fitness Trainer final.png',
+    thumbnail: '/Fitness Trainer final.png',
     format: 'vertical',
     description: 'Event poster for summer festival.',
     client: 'SummerVibes',
@@ -95,7 +95,7 @@ export const PROJECTS: Project[] = [
     title: 'Minimalist Book Cover',
     category: ProjectCategory.GRAPHIC,
     subcategory: 'Print',
-    thumbnail: 'public/TMU (1).png',
+    thumbnail: '/TMU (1).png',
     format: 'vertical',
     description: 'Cover design for modern novel.',
     client: 'Penguin Books',
@@ -106,7 +106,7 @@ export const PROJECTS: Project[] = [
     title: 'App Onboarding UI',
     category: ProjectCategory.GRAPHIC,
     subcategory: 'UI/UX',
-    thumbnail: 'public/VDGS - 2.png',
+    thumbnail: '/VDGS - 2.png',
     format: 'vertical',
     description: 'Mobile app onboarding screens.',
     client: 'TechStart',
@@ -239,3 +239,4 @@ export const TESTIMONIALS: Testimonial[] = [
     quote: 'We needed a brand identity that felt organic yet professional. Hari nailed the brief on the first try. Highly recommended!'
   }
 ];
+
