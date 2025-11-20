@@ -22,15 +22,15 @@ const About: React.FC = () => {
 
             <div className="grid grid-cols-3 gap-8 mt-12 border-t border-neutral-800 pt-8">
               <div>
-                <span className="block text-3xl font-bold text-white mb-1">5+</span>
+                <span className="block text-3xl font-bold text-white mb-1">3+</span>
                 <span className="text-sm text-gray-500">Years Exp.</span>
               </div>
               <div>
-                <span className="block text-3xl font-bold text-white mb-1">120+</span>
+                <span className="block text-3xl font-bold text-white mb-1">50+</span>
                 <span className="text-sm text-gray-500">Projects</span>
               </div>
               <div>
-                <span className="block text-3xl font-bold text-white mb-1">40+</span>
+                <span className="block text-3xl font-bold text-white mb-1">10+</span>
                 <span className="text-sm text-gray-500">Happy Clients</span>
               </div>
             </div>
@@ -78,3 +78,4 @@ const About: React.FC = () => {
 
 
 export default About;
+
