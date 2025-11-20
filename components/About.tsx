@@ -13,7 +13,7 @@ const About: React.FC = () => {
             <h2 className="text-3xl font-display font-bold text-white mb-6">About Hari</h2>
             <div className="space-y-4 text-gray-400 leading-relaxed text-lg">
               <p>
-                I'm a multidisciplinary creative with a passion for visual storytelling. With over 5 years of experience in both video editing and graphic design, I bridge the gap between static and moving visuals.
+                I'm a multidisciplinary creative with a passion for visual storytelling. With over 3 years of experience in both video editing and graphic design, I bridge the gap between static and moving visuals.
               </p>
               <p>
                 My philosophy is simple: design should not just look good; it should work. Whether it's maximizing viewer retention on YouTube or creating a memorable brand identity, every pixel and frame serves a purpose.
@@ -75,5 +75,6 @@ const About: React.FC = () => {
     </section>
   );
 };
+
 
 export default About;
